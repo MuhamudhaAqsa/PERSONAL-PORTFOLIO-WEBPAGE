@@ -1,0 +1,19 @@
+[
+    
+    {
+      "title": "Dark Patterns Decoder",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a project to identify the risks while agreeing to the terms and conditions of several applications.",
+      "skills": ["JavaScript", "Express", "Node", "Python - Machine Learning"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Social Media Emotion Analysis",
+      "imageSrc": "projects/project.png",
+      "description": "It analyses the emotional state of individuals in social media through their linguistic patterns and identifying users having sucidal thoughts.",
+      "skills": ["TensorFlow", "NLP Techniques"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
