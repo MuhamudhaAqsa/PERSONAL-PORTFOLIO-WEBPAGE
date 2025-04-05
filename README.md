@@ -19,7 +19,11 @@ MENTOR: NEELA SANTOSH
 
 A simple personal portfolio showcasing my skills, projects, and contact information.
 
-Features
+# DESCRIPTION
+
+
+
+
 1. Clean and Modern User Interface (UI)
 
 The platform is designed with a visually appealing and contemporary user interface, ensuring a polished first impression and a professional look.
