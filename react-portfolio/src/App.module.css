@@ -1,8 +1,15 @@
+/* Import global CSS variables (like colors) */
 @import "./vars.css";
 
+/* Main App container styles */
 .App {
+  /* Set the background color from a CSS variable */
   background-color: var(--color-bg);
+
+  /* Make the App take full width and height of the viewport */
   width: 100%;
   height: 100%;
+
+  /* Prevent scrolling if content overflows */
   overflow: hidden;
 }
