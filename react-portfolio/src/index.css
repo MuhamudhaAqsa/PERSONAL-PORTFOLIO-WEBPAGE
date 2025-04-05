@@ -1,10 +1,14 @@
+/* Apply a global box-sizing model and remove default spacing */
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+
+  /* Set default font family across the site */
   font-family: "Outfit", Arial, Helvetica, sans-serif;
 }
 
+/* Enable smooth scrolling for anchor links */
 html {
   scroll-behavior: smooth;
 }
