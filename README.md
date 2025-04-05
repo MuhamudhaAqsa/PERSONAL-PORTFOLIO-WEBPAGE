@@ -1,5 +1,22 @@
 # PERSONAL PORTFOLIO WEBPAGE
 
+---  
+
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: MUHAMUDHA AQSA M A
+
+INTERN ID: CT6WWRN
+
+DOMAIN: FRONT END DEVELOPMENT
+
+DURATION: 6 WEEKS
+
+MENTOR: NEELA SANTOSH
+
+---  
+
 A simple personal portfolio showcasing my skills, projects, and contact information.
 
 ## Screenshots
