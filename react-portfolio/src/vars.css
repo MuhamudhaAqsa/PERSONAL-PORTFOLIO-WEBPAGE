@@ -1,9 +1,11 @@
-:root{
-    --color-text:#fff;
-    --color-primary:#576cbc;
-    --color-secondary:#19376d;
-    --color-dark:#0b2447;
-    --color-bg:#04152d;
+:root {
+  /* Text and theme colors */
+  --color-text: #fff;            /* Default text color (white) */
+  --color-primary: #576cbc;      /* Primary accent color */
+  --color-secondary: #19376d;    /* Secondary accent color */
+  --color-dark: #0b2447;         /* Dark shade for backgrounds or sections */
+  --color-bg: #04152d;           /* Main background color */
 
-    --font-robot:"Roboto";
+  /* Font variables */
+  --font-robot: "Roboto";        /* Base font family */
 }
