@@ -17,12 +17,14 @@ MENTOR: NEELA SANTOSH
 
  
 
-A simple personal portfolio showcasing my skills, projects, and contact information.
+
 
 # DESCRIPTION
 
 
 
+
+A simple personal portfolio showcasing my skills, projects, and contact information.
 
 1. Clean and Modern User Interface (UI)
 
