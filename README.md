@@ -1,6 +1,6 @@
 # PERSONAL PORTFOLIO WEBPAGE
 
----  
+
 
 
 COMPANY: CODTECH IT SOLUTIONS
@@ -15,7 +15,7 @@ DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
 
----  
+ 
 
 A simple personal portfolio showcasing my skills, projects, and contact information.
 
